@@ -6,6 +6,7 @@
 - Android
 - Flutter
 - Firebase
+- HTML / CSS / JS
 
 ⚒️ Languages
 - Kotlin
